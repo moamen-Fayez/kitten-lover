@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kitten-lover/static/css/main.37574172.css",
+    "main.js": "/kitten-lover/static/js/main.44e92839.js",
+    "static/js/787.33bf53f8.chunk.js": "/kitten-lover/static/js/787.33bf53f8.chunk.js",
+    "index.html": "/kitten-lover/index.html",
+    "main.37574172.css.map": "/kitten-lover/static/css/main.37574172.css.map",
+    "main.44e92839.js.map": "/kitten-lover/static/js/main.44e92839.js.map",
+    "787.33bf53f8.chunk.js.map": "/kitten-lover/static/js/787.33bf53f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37574172.css",
+    "static/js/main.44e92839.js"
+  ]
+}
